@@ -52,6 +52,7 @@
 | [Seattle University](#seattleu) | Seattle, WA | 12/15/2022 |
 | [Houghton University](#houghton) | Houghton, NY | 01/01/2023 |
 | [Dickinson College](#dickinson) | Carlisle, PA | 01/09/2023, open until filled |
+| [Simpson College](#simpson) | Indianola, IA | 01/09/2023, open until filled |
 | [Muhlenberg College](#muhlenberg) | Allentown, PA | 01/15/2023 |
 | [California Polytechnic State University](#cal-poly) | San Luis Obispo, CA | open until filled |
 | [University of the Pacific](#pacific) | Stockton, CA | open until filled |
