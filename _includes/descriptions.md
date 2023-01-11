@@ -603,6 +603,19 @@ _Excerpt_ The Computer Science Department at Seattle University invites applicat
 
 ------------
 
+### Simpson College
+{: #simpson}
+
+_Excerpt_ The Department of Computer Science at Simpson College invites applications for a tenure-track position in Computer Science starting in August 2023. Applicants should have a Ph.D. or other terminal degree in Computer Science, Computer Information Systems, or related field. ABD applicants should include a detailed update on their dissertation progress. Candidates will teach a six course load per year with courses selected from the offerings consistent with the candidate's training and interest. We are looking for individuals who could especially support content areas including Web Development, 3D Graphics and Game Design, Information Assurance and other cybersecurity-related topics. Candidates will also contribute to research, advising, recruitment, and service to the college such as participation on faculty committees. Candidates may be expected to develop and deliver face-to-face, hybrid, and online instruction supporting the college's Continuing, Graduate, and Online Education program. We seek individuals that will be committed to supporting an inclusive and equitable environment for teaching, research, and service to students and the institution. 
+
+- Review of applications will begin **January 9, 2023** and continue until the position is filled.
+- Indianola, IA. USA.
+
+[Full Job Posting](https://https://apply.interfolio.com/117833){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Smith College
 {: #smith}
 
