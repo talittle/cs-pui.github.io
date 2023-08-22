@@ -140,6 +140,19 @@ _Excerpt_ The Department of Computer Science at Reed College invites application
 
 ------------
 
+### Simpson College
+{: #simpson}
+
+_Excerpt_ The Department of Computer Science at Simpson College invites applications for a tenure-track faculty position at the rank of Assistant Professor beginning in August 2024. Applicants should have a Ph.D. in Computer Science, Computer Information Systems, or a related field. ABD applicants should include a detailed update on their progress and have an expected degree completion date by the time of appointment. Courses will be selected from the department's offerings consistent with the candidate's experience and interest. The teaching load is six courses per academic year and may include face-to-face, hybrid, and online instruction supporting the college's Continuing, Graduate, and Online Education program. We seek candidates strongly committed to supporting an inclusive and equitable teaching, research, and service environment for students and the institution.
+
+- Review of applications will begin immediately, and all applications received by **September 22, 2023**, will receive full consideration
+- Indianola, Iowa. USA.
+
+[Full Job Posting](https://apply.interfolio.com/130393){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Skidmore College
 {: #skidmore}
 
