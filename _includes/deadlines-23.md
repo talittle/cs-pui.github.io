@@ -1,5 +1,6 @@
 | **Institution** | **Location** | **App Deadline** |
 | :----       | :---       | :--- |
+| [Simpson College](#simpson) | Indianola, IA. USA | 9/22/2023|
 | [Carleton College](#carleton) | Northfield, MN. USA | 9/27/2023 |
 | [Oberlin College](#oberlin-cs) | Oberlin, OH. USA | 10/1/2023 |
 | [Davidson College](#davidson) | Davidson, NC. USA | 10/1/2023 |
